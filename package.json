@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "main.ts",
   "scripts": {
-    "start" : "./node_modules/.bin/ts-node main.ts"
+    "run": "./node_modules/.bin/ts-node "
   },
   "repository": "https://github.com/itojun-1230/algorithm.git",
   "license": "MIT",
