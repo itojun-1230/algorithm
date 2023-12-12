@@ -1,0 +1,15 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "start" : "./node_modules/.bin/ts-node main.ts"
+  },
+  "repository": "https://github.com/itojun-1230/algorithm.git",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.10.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
